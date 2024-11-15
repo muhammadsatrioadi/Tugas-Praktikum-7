@@ -1,5 +1,9 @@
 // TaskList.js
 
+// Impor di bagian atas file, sebelum kode lainnya
+import React from 'react';
+import { Card, Button } from 'react-bootstrap';
+
 // Fungsi untuk mengecek apakah deadline mendekati
 const isDeadlineNear = (deadline) => {
     if (!deadline) return false; // Jika tidak ada deadline, return false
@@ -11,9 +15,6 @@ const isDeadlineNear = (deadline) => {
 };
 
 // Komponen TaskList
-import React from 'react';
-import { Card, Button } from 'react-bootstrap';
-
 const TaskList = ({ tasks, deleteTask, showEditForm }) => {
     const getPriorityStyle = (priority) => {
         switch (priority) {
