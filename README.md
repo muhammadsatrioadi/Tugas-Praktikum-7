@@ -1,3 +1,18 @@
+LINK DEMO WEB : https://9995-139-192-199-24.ngrok-free.app
+
+TAMPILAN WEBSITE :
+![Screenshot 2024-11-15 212942](https://github.com/user-attachments/assets/52b27351-6fe3-485d-90f8-281388f3bc48)
+![Screenshot 2024-11-15 213009](https://github.com/user-attachments/assets/f1ffa49c-7bfc-4659-a6a0-31309f0b75bc)
+![Screenshot 2024-11-15 213038](https://github.com/user-attachments/assets/8c809e74-2152-4079-837a-b3bb33549710)
+![Screenshot 2024-11-15 213432](https://github.com/user-attachments/assets/cadd958f-9dba-428d-b7f5-f12e85ff3ac3)
+![Screenshot 2024-11-15 213635](https://github.com/user-attachments/assets/8e00c2fb-fc94-4b2f-b2d0-8d643c386ad2)
+![Screenshot 2024-11-15 213642](https://github.com/user-attachments/assets/880a1726-3fd3-4bbd-9288-705b7424f302)
+![Screenshot 2024-11-15 213659](https://github.com/user-attachments/assets/8551ed28-460c-49e7-a63d-9812ce34625c)
+![Screenshot 2024-11-15 213713](https://github.com/user-attachments/assets/a071279c-46e7-4772-96c8-9906c1bba54f)
+![Screenshot 2024-11-15 213724](https://github.com/user-attachments/assets/a6b5cb3a-95dd-4b46-b4ee-4fb4ab3183be)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
